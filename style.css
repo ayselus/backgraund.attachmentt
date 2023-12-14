@@ -1,0 +1,21 @@
+.sekil{
+    height: 400px;
+    background-image:url(ayselus.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.sekill{
+    height: 400px;
+    background-image:url(kedi.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.sekilll{
+    height: 400px;
+    background-image:url(yeni\ ill.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
